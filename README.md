@@ -1,2 +1,4 @@
 # hello-world
-test
+Hello!
+
+If taking some leave and mucking about with Git
